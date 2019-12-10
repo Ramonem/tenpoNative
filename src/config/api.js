@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const URL = endpoint =>
-  `https://maps.googleapis.com/maps/api/place/${endpoint}/json?key=AIzaSyCv704D5fH_qumfwUBD2hTYL9cMPuZEa6U`
+  `https://maps.googleapis.com/maps/api/place/${endpoint}/json?key=KEY`
 
 export const API = {}
 
